@@ -21,6 +21,7 @@ Search and open Youtube videos, Twitch streams on MPV and download audio to .opu
 git clone https://github.com/MetaKomora/vistrad
 mkdir -p ~/.local/bin/
 mv vistrad/vistrad.py ~/.local/bin
+chmod +x ~/.local/bin/vistrad.py
 ```
 
 ## Usage
